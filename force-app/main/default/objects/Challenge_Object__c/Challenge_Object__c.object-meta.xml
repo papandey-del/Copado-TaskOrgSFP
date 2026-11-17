@@ -159,9 +159,7 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>Challenge Objects</pluralLabel>
-    <searchLayouts>
-        <lookupDialogsAdditionalFields>Challenge_Note__c</lookupDialogsAdditionalFields>
-    </searchLayouts>
+    <searchLayouts></searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
