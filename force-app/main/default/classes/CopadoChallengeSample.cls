@@ -1,6 +1,7 @@
 public with sharing class CopadoChallengeSample {
     // Environment-specific value, later replaced through Copado environment variables
     //sample change to test back promote
+	//test
     public static String notifyEmail = 'm.pillai@copado.com';
 
     public static String getMessage() {
